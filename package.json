@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Ankil",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankilrnaik/namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ankil Naik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankilrnaik/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ankilrnaik/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
